@@ -20,17 +20,6 @@ NumPy
 Pandas
 Scikit-learn
 
-# Final Output Example
-Accuracy: 0.7443609022556391
-              precision    recall  f1-score   support
-
-           0       0.76      0.90      0.82       610
-           1       0.70      0.45      0.55       321
-
-    accuracy                           0.74       931
-   macro avg       0.73      0.68      0.69       931
-weighted avg       0.74      0.74      0.73       931
-
 # Future Improvements
 Feature scaling using StandardScaler
 Try other classifiers (Random Forest, SVM, XGBoost)
